@@ -1,0 +1,14 @@
+{
+  "name": "homer",
+  "version": "2.0.0",
+  "description": "Homer - Meteor version 2016 version: 1.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-runtime": "^6.23.0"
+  }
+}
