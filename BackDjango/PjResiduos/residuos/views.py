@@ -24,7 +24,7 @@ def postsign(request):
     passwd=request.POST.get("pass")
 
     try:
-	    user = auth.sign_in_with_email_and_password(email,passwd)
+	user = auth.sign_in_with_email_and_password(email,passwd)
     except:
         message = "invalid cerediantials"
     return render(request,"signIn.html",{"msg":message})
