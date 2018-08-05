@@ -1,0 +1,25 @@
+Keynote - draft.
+
+Cada persona produce en promedio entre 4 y 5 libras de desperdicios diariamente.
+
+Se estima que en el mundo se generan xxx toneladas de desechos cada xxx segundos/min..
+
+El modelo de recoleccion de desechos que predomina en el mundo está basado en la relación costo-volumen y costo-peso.
+
+Las tendencias mundiales en tecnología incluyen mas que nunca la necesidad de implementar estrategias basadas en el
+uso de datos como factor para la toma de decisiones, esto se conoce como data-driven.
+
+Las entidades gubernamentales municipales, gobiernos nacionales y companias de servicios de recoleccion de residuos o mal llamadas basuras
+enfrentan grandes retos para responder adecuadamente al manejo de los residuos y este es un tema prioritario de salud pública
+que cada vez es mas crítico.
+
+Se estima que los residuos son la fuente de ingresos de XXXX personas alrededor del mundo, solo en Colombia se estima que el reciclaje de productos
+representa XXXX miles de millones anualmente, estas cifras están vinculadas exclusivamente al proceso de reciclaje, en DATA/GARBAGE COLLECTOR
+compartimos la vision de ser pioneros en la generación y aprovechamiento de los datos que se generan alrededor de los residuos/desechos.
+
+DATA COLLECTOR es un servicio que permite la generación de datos y estadísticas de la generación de los desechos de hogares, empresas, colegios
+que funciona apoyado en tecnologia de Intenet de las cosas - IoT mediante el monitoreo remoto de las canecas recolectoras de forma que generamos
+estadisticas que pueden llegar al nivel individual sobre el volumen de desechos generados y de residuos dispuestos para reciclaje.
+
+Para los usuarios del servicio se encuentran reduccion de costos en el servicio de recoleccion debido a que se cuenta con un mecanismo
+objetivo que permitirá ajustar las tarifas
